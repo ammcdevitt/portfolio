@@ -1,0 +1,53 @@
+header div h1, article h2, article div section h3, p {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+header div h1 {
+    text-align: right;
+}
+
+#job {
+    font-size: 0.5em;
+}
+
+section hr {
+    height: 4px;
+    border: none;
+    background-color: #999999;
+}
+
+section div aside ul li {
+    list-style-type: none;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    height: 70px; 
+    width: 70px;
+    margin-bottom: 1cm;
+}
+
+#list1 {
+    background-color: #02b3e4;
+}
+
+#list2 {
+    background-color: #2d3c49;
+}
+
+#list3 {
+    background-color: #7d97ad;
+}
+
+#anna_mcd {
+    width: 100%;
+}
+
+article {
+    float: right;
+}
+
+article div section img {
+    width: 100%;
+ }
+
+article div section p {
+    word-wrap: break-word;
+}
